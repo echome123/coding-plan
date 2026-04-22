@@ -24,6 +24,8 @@
 ---
 
 ## 🟠 阿里百炼
+> 阿里百炼平台开始主推 `Token Plan` 套餐，支持全模态内容输出，如图片，视频，等
+
 
 | 套餐 | Token额度 | 价格 | 包含模型 | 状态说明 | 官方地址 |
 |------|-----------|------|----------|----------|----------|
@@ -66,8 +68,8 @@
 
 | 套餐 | Token额度 | 价格 | 包含模型 | 状态说明 | 官方地址 |
 |------|-----------|------|----------|----------|----------|
-| 🔥 Lite | 18,000 次请求 | ¥40 | GLM-5、MiniMax-M2.5、Kimi-K2.5等 | 🔥 需抢购 / 🟢 在售 | [去购买](https://cloud.baidu.com/product/codingplan.html?from=home-carousel-campaign-2) |
-| 🔥 Pro | 90,000 次请求 | ¥200 | 同上 | 🔥 需抢购 / 🟢 在售 | [去购买](https://cloud.baidu.com/product/codingplan.html?from=home-carousel-campaign-2) |
+| 🔥Lite | 18,000 次请求 | ¥40 | GLM-5、MiniMax-M2.5、Kimi-K2.5等 | 🔥 需抢购 / 🟢 在售 | [去购买](https://cloud.baidu.com/product/codingplan.html?from=home-carousel-campaign-2) |
+| 🔥Pro | 90,000 次请求 | ¥200 | 同上 | 🔥 需抢购 / 🟢 在售 | [去购买](https://cloud.baidu.com/product/codingplan.html?from=home-carousel-campaign-2) |
 
 ---
 
@@ -75,7 +77,7 @@
 
 | 套餐 | Token额度 | 价格 | 包含模型 | 状态说明 | 官方地址 |
 |------|-----------|------|----------|----------|----------|
-| 🔥 Lite | 18,000 次请求 | ¥40（特价19.9） | GLM-5、MiniMax-M2.5、Kimi-K2.5等 | 🔥 促销 / 🟢 在售 | [去购买](https://cloud.baidu.com/product/codingplan.html?from=home-carousel-campaign-2) |
-| 🔥 Pro | 90,000 次请求 | ¥200（特价99.9） | 同上 | 🔥 促销 / 🟢 在售 | [去购买](https://cloud.baidu.com/product/codingplan.html?from=home-carousel-campaign-2) |
+| 🔥Lite | 18,000 次请求 | ¥40（特价19.9） | GLM-5、MiniMax-M2.5、Kimi-K2.5等 | 🔥 促销 / 🟢 在售 | [去购买](https://www.jdcloud.com/cn/pages/codingplan) |
+| 🔥Pro | 90,000 次请求 | ¥200（特价99.9） | 同上 | 🔥 促销 / 🟢 在售 | [去购买](https://www.jdcloud.com/cn/pages/codingplan) |
 
 ---
